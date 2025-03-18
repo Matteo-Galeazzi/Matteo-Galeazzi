@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+Interested in:
+- Text Mining 
+- Data Analysis for technological forecasting and innovation management
+- Design of Tagetik solutions
+
 <!--
 **Matteo-Galeazzi/Matteo-Galeazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
